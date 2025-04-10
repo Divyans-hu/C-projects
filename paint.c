@@ -5,7 +5,7 @@
         //-> it has a problem as changing color from keystroke makes the prev colored circle to new color selected .
         //-> it doesn't allow you to change stroke of brush.
         //->Brush is also of one type solid plane .
-//try to make more realistic and also allow saving as picture
+        //see PAINTING.c
 
 
 
